@@ -1,0 +1,1 @@
+/Users/jhalabi/Documents/GitHub/ember-intro/ember-blog/tmp/funnel-input_base_path-Ui1vQzqr.tmp/0/torii-adapters/firebase.js

@@ -1,0 +1,1 @@
+/Users/jhalabi/Documents/GitHub/ember-intro/blog/tmp/funnel-input_base_path-4DmwkkuX.tmp/0/

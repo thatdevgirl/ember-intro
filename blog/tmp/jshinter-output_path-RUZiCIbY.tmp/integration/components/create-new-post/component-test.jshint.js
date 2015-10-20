@@ -1,0 +1,1 @@
+/Users/jhalabi/Documents/GitHub/ember-intro/ember-blog/tmp/jshinter-cache_path-IXMtOXAW.tmp/integration/components/create-new-post/component-test.jshint.js
