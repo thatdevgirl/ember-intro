@@ -1,1 +1,0 @@
-/Users/jhalabi/Documents/GitHub/ember-intro/ember-blog/tmp/template_compiler-tmp_cache_dir-v8R2sgZb.tmp/12

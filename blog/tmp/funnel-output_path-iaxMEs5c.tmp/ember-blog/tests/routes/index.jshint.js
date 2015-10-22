@@ -1,1 +1,0 @@
-/Users/jhalabi/Documents/GitHub/ember-intro/ember-blog/tmp/jshinter-cache_path-FSyFKd09.tmp/routes/index.jshint.js

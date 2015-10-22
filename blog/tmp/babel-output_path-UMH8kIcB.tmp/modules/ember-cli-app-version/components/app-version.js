@@ -1,1 +1,0 @@
-/Users/jhalabi/Documents/GitHub/ember-intro/ember-blog/tmp/babel-cache_path-UwLT8eyu.tmp/modules/ember-cli-app-version/components/app-version.js
