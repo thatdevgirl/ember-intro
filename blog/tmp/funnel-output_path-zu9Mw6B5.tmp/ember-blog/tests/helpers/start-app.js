@@ -1,1 +1,0 @@
-/Users/jhalabi/Documents/GitHub/ember-intro/blog/tmp/babel-output_path-f4xCJ50i.tmp/ember-blog/tests/helpers/start-app.js

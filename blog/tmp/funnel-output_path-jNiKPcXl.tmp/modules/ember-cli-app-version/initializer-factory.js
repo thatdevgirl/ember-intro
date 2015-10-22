@@ -1,1 +1,0 @@
-/Users/jhalabi/Documents/GitHub/ember-intro/blog/tmp/funnel-input_base_path-BS9hNaLe.tmp/0/initializer-factory.js

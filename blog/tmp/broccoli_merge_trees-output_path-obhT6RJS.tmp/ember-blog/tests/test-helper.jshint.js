@@ -1,1 +1,0 @@
-/Users/jhalabi/Documents/GitHub/ember-intro/blog/tmp/jshinter-output_path-qKe6ImiI.tmp/test-helper.jshint.js

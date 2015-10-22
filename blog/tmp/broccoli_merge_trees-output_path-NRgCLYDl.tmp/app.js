@@ -1,1 +1,0 @@
-/Users/jhalabi/Documents/GitHub/ember-intro/blog/app/app.js
